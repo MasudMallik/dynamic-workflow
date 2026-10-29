@@ -1,0 +1,19 @@
+scikit-learn
+mlflow
+dvc
+pandas
+numpy
+langchain
+langchain-groq
+langchain-core
+langchain-community
+langchain_chroma
+langchain_huggingface
+sentence_transformers
+pypdf
+xgboost
+streamlit
+graphviz
+fastapi
+uvicorn
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
